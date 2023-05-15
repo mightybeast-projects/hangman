@@ -1,0 +1,26 @@
+wordScreenAtlas.png
+size: 468, 32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+next
+  rotate: false
+  xy: 340, 0
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+random
+  rotate: false
+  xy: 180, 0
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: -1
+wordpanel
+  rotate: false
+  xy: 0, 0
+  size: 180, 32
+  orig: 180, 32
+  offset: 0, 0
+  index: -1

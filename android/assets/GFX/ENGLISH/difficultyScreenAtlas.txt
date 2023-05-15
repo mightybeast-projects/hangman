@@ -1,0 +1,26 @@
+difficultyScreenAtlas.png
+size: 384, 32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easy
+  rotate: false
+  xy: 144, 0
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+hard
+  rotate: false
+  xy: 272, 0
+  size: 112, 32
+  orig: 112, 32
+  offset: 0, 0
+  index: -1
+medium
+  rotate: false
+  xy: 0, 0
+  size: 144, 32
+  orig: 144, 32
+  offset: 0, 0
+  index: -1

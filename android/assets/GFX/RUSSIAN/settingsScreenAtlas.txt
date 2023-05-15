@@ -1,0 +1,68 @@
+settingsScreenAtlas.png
+size: 512, 32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+back
+  rotate: false
+  xy: 0, 0
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+englishflag
+  rotate: false
+  xy: 320, 0
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+englishflagx
+  rotate: false
+  xy: 368, 0
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+music
+  rotate: false
+  xy: 64, 0
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+musicx
+  rotate: false
+  xy: 128, 0
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+russianflag
+  rotate: false
+  xy: 416, 0
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+russianflagx
+  rotate: false
+  xy: 464, 0
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+sound
+  rotate: false
+  xy: 192, 0
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+soundx
+  rotate: false
+  xy: 256, 0
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1

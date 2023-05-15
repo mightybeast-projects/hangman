@@ -1,0 +1,82 @@
+upgradesScreenAtlas.png
+size: 449, 704
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bar
+  rotate: false
+  xy: 288, 224
+  size: 161, 352
+  orig: 161, 352
+  offset: 0, 0
+  index: -1
+firstletter
+  rotate: false
+  xy: 0, 608
+  size: 360, 32
+  orig: 360, 32
+  offset: 0, 0
+  index: -1
+firstletterimage
+  rotate: false
+  xy: 144, 224
+  size: 144, 224
+  orig: 144, 224
+  offset: 0, 0
+  index: -1
+lastletter
+  rotate: false
+  xy: 0, 608
+  size: 360, 32
+  orig: 360, 32
+  offset: 0, 0
+  index: -1
+lastletterimage
+  rotate: false
+  xy: 258, 0
+  size: 144, 224
+  orig: 144, 224
+  offset: 0, 0
+  index: -1
+randomletter
+  rotate: false
+  xy: 0, 672
+  size: 360, 32
+  orig: 360, 32
+  offset: 0, 0
+  index: -1
+randomletterimage
+  rotate: false
+  xy: 0, 224
+  size: 144, 224
+  orig: 144, 224
+  offset: 0, 0
+  index: -1
+secondchance
+  rotate: false
+  xy: 0, 640
+  size: 360, 32
+  orig: 360, 32
+  offset: 0, 0
+  index: -1
+secondchanceimage
+  rotate: false
+  xy: 114, 0
+  size: 144, 224
+  orig: 144, 224
+  offset: 0, 0
+  index: -1
+upgrade
+  rotate: false
+  xy: 0, 576
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: -1
+upgrades
+  rotate: false
+  xy: 0, 0
+  size: 114, 34
+  orig: 114, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,187 @@
+lettersAtlas.png
+size: 720, 60
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+A
+  rotate: false
+  xy: 0, 0
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 0, 20
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 0, 40
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+D
+  rotate: false
+  xy: 80, 0
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+E
+  rotate: false
+  xy: 80, 20
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+F
+  rotate: false
+  xy: 80, 40
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+G
+  rotate: false
+  xy: 160, 0
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+H
+  rotate: false
+  xy: 160, 20
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+I
+  rotate: false
+  xy: 160, 40
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+J
+  rotate: false
+  xy: 240, 0
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+K
+  rotate: false
+  xy: 240, 20
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 240, 40
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+M
+  rotate: false
+  xy: 320, 0
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+N
+  rotate: false
+  xy: 320, 20
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 320, 40
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+P
+  rotate: false
+  xy: 400, 0
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Q
+  rotate: false
+  xy: 400, 20
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+R
+  rotate: false
+  xy: 400, 40
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+S
+  rotate: false
+  xy: 480, 0
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+T
+  rotate: false
+  xy: 480, 20
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+U
+  rotate: false
+  xy: 480, 40
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+V
+  rotate: false
+  xy: 560, 0
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+W
+  rotate: false
+  xy: 560, 20
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+X
+  rotate: false
+  xy: 560, 40
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Y
+  rotate: false
+  xy: 640, 0
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Z
+  rotate: false
+  xy: 640, 20
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+menuScreenAtlas.png
+size: 400, 32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1p
+  rotate: false
+  xy: 0, 0
+  size: 200, 32
+  orig: 200, 32
+  offset: 0, 0
+  index: -1
+2p
+  rotate: false
+  xy: 200, 0
+  size: 200, 32
+  orig: 200, 32
+  offset: 0, 0
+  index: -1

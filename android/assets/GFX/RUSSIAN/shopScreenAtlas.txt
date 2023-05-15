@@ -1,0 +1,26 @@
+shopScreenAtlas.png
+size: 240, 66
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shop
+  rotate: false
+  xy: 0, 32
+  size: 98, 34
+  orig: 98, 34
+  offset: 0, 0
+  index: -1
+skins
+  rotate: false
+  xy: 98, 32
+  size: 140, 32
+  orig: 140, 32
+  offset: 0, 0
+  index: -1
+upgrades
+  rotate: false
+  xy: 0, 0
+  size: 240, 32
+  orig: 240, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,236 @@
+lettersAtlas.png
+size: 240, 220
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+А
+  rotate: false
+  xy: 0, 0
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Б
+  rotate: false
+  xy: 80, 0
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+В
+  rotate: false
+  xy: 160, 0
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Г
+  rotate: false
+  xy: 0, 20
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Д
+  rotate: false
+  xy: 80, 20
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Е
+  rotate: false
+  xy: 160, 20
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Ж
+  rotate: false
+  xy: 0, 40
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+З
+  rotate: false
+  xy: 80, 40
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+И
+  rotate: false
+  xy: 160, 40
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Й
+  rotate: false
+  xy: 0, 60
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+К
+  rotate: false
+  xy: 80, 60
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Л
+  rotate: false
+  xy: 160, 60
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+М
+  rotate: false
+  xy: 0, 80
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Н
+  rotate: false
+  xy: 80, 80
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+О
+  rotate: false
+  xy: 160, 80
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+П
+  rotate: false
+  xy: 0, 100
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Р
+  rotate: false
+  xy: 80, 100
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+С
+  rotate: false
+  xy: 160, 100
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Т
+  rotate: false
+  xy: 0, 120
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+У
+  rotate: false
+  xy: 80, 120
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Ф
+  rotate: false
+  xy: 160, 120
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Х
+  rotate: false
+  xy: 0, 140
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Ц
+  rotate: false
+  xy: 80, 140
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Ч
+  rotate: false
+  xy: 160, 140
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Ш
+  rotate: false
+  xy: 0, 160
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Щ
+  rotate: false
+  xy: 80, 160
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Ъ
+  rotate: false
+  xy: 160, 160
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Ы
+  rotate: false
+  xy: 0, 180
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Ь
+  rotate: false
+  xy: 80, 180
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Э
+  rotate: false
+  xy: 160, 180
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Ю
+  rotate: false
+  xy: 0, 200
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Я
+  rotate: false
+  xy: 80, 200
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Ё
+  rotate: false
+  xy: 160, 200
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1

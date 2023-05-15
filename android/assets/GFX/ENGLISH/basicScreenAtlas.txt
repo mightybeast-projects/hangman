@@ -1,0 +1,61 @@
+basicScreenAtlas.png
+size: 360, 384
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 0, 0
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+blackscreen
+  rotate: false
+  xy: 180, 0
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 147, 320
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 243, 320
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 147, 336
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 0, 320
+  size: 147, 32
+  orig: 147, 32
+  offset: 0, 0
+  index: -1
+settings
+  rotate: false
+  xy: 0, 352
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+shop
+  rotate: false
+  xy: 64, 352
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
